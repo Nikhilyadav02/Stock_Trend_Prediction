@@ -11,4 +11,4 @@ First clone or download this project from repositories in the code section
 Most important module is  streamlit
 
 
-2:) TYPE IN TERMINAL -:  streamlit run app.py
+2:) FOR RUN ,TYPE IN TERMINAL -:  streamlit run app.py
